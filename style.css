@@ -1,0 +1,18 @@
+.one {
+	font-family: verdana;
+	color: red;
+	font-size: 100px;
+	line-height: 20px;
+}
+
+.bod {
+	font-family: arial;
+	font-size: 30px;
+	color: green;
+	display: flex;
+	background-color: lightgreen;
+	height: 30%;
+	width: 40%;
+	border: 5px dotted green;
+	justify-content: center;
+}
